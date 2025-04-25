@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    align-items: center;
+    background-color: rgba(193, 127, 255, 0.923);
+    flex-direction: column;
+}
+.container{
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    width: 400px;
+    height: 100px;
+    align-items: center;
+    flex-wrap: wrap;
+}
